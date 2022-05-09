@@ -5,4 +5,4 @@ Example data portfolio
 ###  full code on kaggle (https://www.kaggle.com/code/moruli/startedfromscratchtitan)
 
 ### [Learning vizualization from titanic data] 
-###  full code on kaggle (https://www.kaggle.com/code/moruli/titanic-viz/notebook)
+###  full code on kaggle (https://www.kaggle.com/code/moruli/titanic-viz/)
