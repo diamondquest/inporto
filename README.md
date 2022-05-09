@@ -1,8 +1,8 @@
 # In's porto
 Example data portfolio
 
-### [Project 1: Learning simple code from kaggle's data titanic competition] (https://github.com/diamondquest/inporto)
+### [Project 1: Learning simple code from kaggle's data titanic competition] (https://github.com/diamondquest/inporto) 1
 ###  full code on kaggle (https://www.kaggle.com/code/moruli/startedfromscratchtitan)
 
-### [Project 2: Learning vizualization] (https://github.com/diamondquest/inporto)
+### [Learning vizualization from titanic data] 
 ###  full code on kaggle (https://www.kaggle.com/code/moruli/titanic-viz/notebook)
